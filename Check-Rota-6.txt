@@ -24,10 +24,12 @@ grep "erro" log.txt
 cp: Utilizado no Linux para copiar arquivos e diretórios.
 cp origem.txt destino.txt
 
-5)Instalar: sudo apt install apache2
-  Iniciar a Execucao:  sudo systemctl start apache2
+5) sudo apt update
+   sudo apt install apache2
+   sudo systemctl status apache2
+   sudo systemctl start apache2
 
-6)B
+6)B (I E II estao corretas)
 
 7)É o comando top. Ele exibe uma lista dinâmica dos processos em execução, mostrando informações como a utilização de CPU, memória e tempo de execução de cada processo.
 
