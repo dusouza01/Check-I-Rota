@@ -1,12 +1,20 @@
 1)
 
-2)
+
+2)cd /:
+
+Este comando leva o usuário ao diretório raiz do sistema de arquivos. O diretório raiz (/) é a base de toda a estrutura de diretórios no Linux.
+
+cd ~:
+Este comando leva o usuário ao seu diretório home (pessoal). O símbolo ~ representa o caminho do diretório home do usuário logado.
+
+cd -:
+Este comando muda para o diretório anterior em que o usuário estava. É útil para alternar rapidamente entre dois diretórios.
 
 3)
 mkdir -p FIAP/2024/SO
 
 4)
-
 cat:  Exibe o conteúdo de um arquivo na saída padrão (geralmente a tela).
 cat /var/log/syslog
 
