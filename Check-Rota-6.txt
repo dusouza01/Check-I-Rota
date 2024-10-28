@@ -1,5 +1,4 @@
-1)
-
+1)Sistemas Operacionais criados a partir de uma colecao de softwares, que utilizam o núcleo Linux, um repositório de programas e um sistema gestor de pacotes.
 
 2)cd /:
 
