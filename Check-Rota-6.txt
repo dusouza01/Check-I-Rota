@@ -1,0 +1,28 @@
+1)
+
+2)
+
+3)
+mkdir -p FIAP/2024/SO
+
+4)
+
+cat:  Exibe o conteúdo de um arquivo na saída padrão (geralmente a tela).
+cat /var/log/syslog
+
+grep: tilizado no Linux para buscar por padrões de texto dentro de arquivos.
+grep "erro" log.txt
+
+cp: Utilizado no Linux para copiar arquivos e diretórios.
+cp origem.txt destino.txt
+
+5)Instalar: sudo apt install apache2
+  Iniciar a Execucao:  sudo systemctl start apache2
+
+6)B
+
+7)É o comando top. Ele exibe uma lista dinâmica dos processos em execução, mostrando informações como a utilização de CPU, memória e tempo de execução de cada processo.
+
+8)B - (Ler e escrever)
+
+9) chmod a+rwx fiap.txt
